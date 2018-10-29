@@ -25,7 +25,7 @@ SECRET_KEY = ')&8ls(vo@ljy-=4sd#$@ch)a2$#u=2p_fqc37_roy0_1+a2$h9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 # имя хост веб-сайта
-ALLOWED_HOSTS = ['127.0.0.1', '<anton>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tonykat.pythonanywhere.com']
 
 
 # Application definition
