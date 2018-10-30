@@ -1,21 +1,23 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: dodgerblue;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: black;
     font-size: 36pt;
     text-decoration: none;
+    font-family: 'Lobster', cursive;
 }
 
 .content {
     margin-left: 40px;
+
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Times New Roman', cursive;
 }
 
 .date {
@@ -39,6 +41,7 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    color: black
 }
 
 .post h1 a, .post h1 a:visited {
